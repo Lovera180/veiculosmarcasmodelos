@@ -1,0 +1,19 @@
+{
+    "name": "lovera180/veiculosmarcasmodelos",
+    "description": "Mascas e modelos de veículos",
+    "require": {
+        "php": "5.5.9",
+        "laravel/framework": "5.1.*"
+    },
+    "authors": [
+        {
+            "name": "Lovera180",
+            "email": "pablolovera180@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VeiculosMarcasModelos": "src/"
+        }
+    }
+}
